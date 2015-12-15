@@ -1,4 +1,4 @@
-# All rights reserved
+# All rights reserved by Xaraniv Weklaus
 
 # Analyze bird counts
 

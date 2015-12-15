@@ -2,7 +2,7 @@
 
 # Analyze bird counts
 
-Read datum file
+Read data file
 
 Run analysis
 
